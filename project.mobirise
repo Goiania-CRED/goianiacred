@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Goiania-CRED",
-    "currentPage": "termos-e-politica-de-privacidade.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "storem4",
       "title": "StoreM4",
@@ -89,7 +89,7 @@
       "text": "Usamos cookies para lhe proporcionar a melhor experiência.  Ao continuar, você concorda com nossos <a href='https://goianiacred.com.br/termos-e-politica-de-privacidade.html'> Termos e Política de Privacidade</a>.",
       "textButton": "Ok Continuar"
     },
-    "mbrsiteDomain": "cpagj5ducx",
+    "mbrsiteDomain": "52khnzpq2c",
     "global_header_custom": "<meta name=\"theme-color\" content=\"#061556\">\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#061556\">\n<meta name=\"msapplication-navbutton-color\" content=\"#061556\">\n",
     "site_lang": "pt-br",
     "global_after_body": "",
@@ -103,7 +103,8 @@
         "meta_descr": "Goiânia CRED Site Oficial. Empréstimos, Consignados para pensionistas, aposentados, INSS, FGTS, pessoal, consórcio e muito mais. Entre em contato  no Whatsapp Comercial  62 3255 5354",
         "header_custom": "<meta name=\"theme-color\" content=\"#061556\">\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#061556\">\n<meta name=\"msapplication-navbutton-color\" content=\"#061556\">",
         "footer_custom": "",
-        "html_before": "<!-- Criado e desenvolvido por MAVE RED STUDIOS ©  -- https://maveredstudios.com -->"
+        "html_before": "<!-- Criado e desenvolvido por MAVE RED STUDIOS ©  -- https://maveredstudios.com -->",
+        "meta_image": "@PROJECT_PATH@/assets/images/top-solar-cred-1920x1066.jpg"
       },
       "components": [
         {
@@ -738,7 +739,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/top2-consorcio-car-goiania-cred-1920x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/top-solar-cred-1920x1066.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -1000,7 +1001,8 @@
         "meta_descr": "Goiânia CRED. Termos e Política de Privacidade. Entre em contato  no Whatsapp Comercial  62 3255 5354",
         "html_before": "<!-- Criado e desenvolvido por MAVE RED STUDIOS © -- https://maveredstudios.com -->",
         "header_custom": "<meta name=\"theme-color\" content=\"#061556\">\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#061556\">\n<meta name=\"msapplication-navbutton-color\" content=\"#061556\">",
-        "footer_custom": ""
+        "footer_custom": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/top-solar-cred-1920x1066.jpg"
       },
       "components": [
         {
@@ -1409,11 +1411,11 @@
           "_sourceTheme": "storem4",
           "_customHTML": "<section group=\"Content\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Secondary Title\" name=\"showSubtitle\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/img/04.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=kI1YE_qenSU\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container-fluid\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-lg-6 col-md-8 align-center\" mbr-if=\"showTitle || showSubtitle\">\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-fonts-style mbr-light pb-3\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n                    Secondary Title\n                </h3>\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    STANDART TITLE</h2>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sVrDbpgzVH",
+          "_anchor": "content7-6u",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content7-6u"
+          "_params": {}
         },
         {
           "alias": false,
