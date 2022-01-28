@@ -89,8 +89,8 @@
       "text": "Usamos cookies para lhe proporcionar a melhor experiência.  Ao continuar, você concorda com nossos <a href='https://goianiacred.com.br/termos-e-politica-de-privacidade.html'> Termos e Política de Privacidade</a>.",
       "textButton": "Ok Continuar"
     },
-    "mbrsiteDomain": "52khnzpq2c",
-    "global_header_custom": "<meta name=\"theme-color\" content=\"#061556\">\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#061556\">\n<meta name=\"msapplication-navbutton-color\" content=\"#061556\">\n",
+    "mbrsiteDomain": "l7trpuv91x",
+    "global_header_custom": "<meta name=\"theme-color\" content=\"#061556\">\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#061556\">\n<meta name=\"msapplication-navbutton-color\" content=\"#061556\">\n<!-- Meta Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '624263092160306');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=624263092160306&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->\n",
     "site_lang": "pt-br",
     "global_after_body": "",
     "gdpr": false
@@ -101,7 +101,7 @@
         "main": true,
         "title": "Goiânia CRED - Empréstimo para Aposentados, Pensionistas, INSS, FGTS, Funcionário Público, Municipal e Estadual. Consórcio Govesa.",
         "meta_descr": "Goiânia CRED Site Oficial. Empréstimos, Consignados para pensionistas, aposentados, INSS, FGTS, pessoal, consórcio e muito mais. Entre em contato  no Whatsapp Comercial  62 3255 5354",
-        "header_custom": "<meta name=\"theme-color\" content=\"#061556\">\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#061556\">\n<meta name=\"msapplication-navbutton-color\" content=\"#061556\">",
+        "header_custom": "<meta name=\"theme-color\" content=\"#061556\">\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"#061556\">\n<meta name=\"msapplication-navbutton-color\" content=\"#061556\">\n<!-- Meta Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '624263092160306');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=624263092160306&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->",
         "footer_custom": "",
         "html_before": "<!-- Criado e desenvolvido por MAVE RED STUDIOS ©  -- https://maveredstudios.com -->",
         "meta_image": "@PROJECT_PATH@/assets/images/top-solar-cred-1920x1066.jpg"
