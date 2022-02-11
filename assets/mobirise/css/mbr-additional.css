@@ -15,23 +15,23 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Bebas Neue', display;
+  font-family: 'Signika', sans-serif;
   font-size: 4.5rem;
 }
 .display-2 {
-  font-family: 'Bebas Neue', display;
+  font-family: 'Signika', sans-serif;
   font-size: 3.4rem;
 }
 .display-4 {
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-size: 1.2rem;
 }
 .display-5 {
-  font-family: 'Bebas Neue', display;
+  font-family: 'Signika', sans-serif;
   font-size: 1.3rem;
 }
 .display-7 {
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-size: 1.1rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
@@ -1071,7 +1071,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-size: 1.1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1774,10 +1774,162 @@ body {
 .cid-svCz5ncpvr P {
   text-align: center;
 }
+.cid-sXa0EWP6Li {
+  padding-top: 75px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/modulos-fotovoltaicos-usina-de-energia-solar-29332-1692-626x417.jpg");
+}
+.cid-sXa0EWP6Li .container-fluid {
+  padding: 0 3rem;
+}
+.cid-sXa0EWP6Li .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(90deg, #030859, #ff0f1c);
+  display: inline-block;
+}
+.cid-sXa0EWP6Li .card {
+  display: flex;
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-sXa0EWP6Li .card:hover img {
+  -webkit-transform: scale3d(1.05, 1.05, 1.05);
+  transform: scale3d(1.05, 1.05, 1.05);
+  transition: all .5s;
+}
+.cid-sXa0EWP6Li .card .card-wrapper {
+  height: 1%;
+}
+.cid-sXa0EWP6Li .card .card-wrapper .card-img {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  z-index: 1;
+}
+.cid-sXa0EWP6Li .card .card-wrapper .card-img img {
+  transition: all .5s;
+}
+.cid-sXa0EWP6Li .card .card-wrapper .card-img .img-text {
+  position: absolute;
+  padding: .6rem;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #ff0f1c;
+}
+.cid-sXa0EWP6Li .card .card-wrapper .card-img .img-text span {
+  display: block;
+}
+.cid-sXa0EWP6Li .card .card-wrapper .card-img .img-name {
+  position: absolute;
+  padding: .6rem;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+}
+.cid-sXa0EWP6Li .card .card-wrapper .card-box .mbr-section-btn a {
+  margin-left: 4px;
+}
+@media (max-width: 767px) {
+  .cid-sXa0EWP6Li .container-fluid {
+    padding: 0 1rem;
+  }
+}
+.cid-sXa0EWP6Li .mbr-section-title,
+.cid-sXa0EWP6Li .underline {
+  color: #061556;
+}
+.cid-sXa0EWP6Li .card-img > .img-name {
+  color: #030859;
+}
+.cid-sXa0EWP6Li .mbr-section-subtitle {
+  color: #061556;
+}
 .cid-stsHryajoX {
   padding-top: 30px;
   padding-bottom: 45px;
   background-color: #ffffff;
+}
+.cid-sXa5919geX {
+  padding-top: 75px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-sXa5919geX .container-fluid {
+  padding: 0 3rem;
+}
+.cid-sXa5919geX .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(90deg, #030859, #ff0f1c);
+  display: inline-block;
+}
+.cid-sXa5919geX .card {
+  display: flex;
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-sXa5919geX .card:hover img {
+  -webkit-transform: scale3d(1.05, 1.05, 1.05);
+  transform: scale3d(1.05, 1.05, 1.05);
+  transition: all .5s;
+}
+.cid-sXa5919geX .card .card-wrapper {
+  height: 1%;
+}
+.cid-sXa5919geX .card .card-wrapper .card-img {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  z-index: 1;
+}
+.cid-sXa5919geX .card .card-wrapper .card-img img {
+  transition: all .5s;
+}
+.cid-sXa5919geX .card .card-wrapper .card-img .img-text {
+  position: absolute;
+  padding: .6rem;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #ff0f1c;
+}
+.cid-sXa5919geX .card .card-wrapper .card-img .img-text span {
+  display: block;
+}
+.cid-sXa5919geX .card .card-wrapper .card-img .img-name {
+  position: absolute;
+  padding: .6rem;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+}
+.cid-sXa5919geX .card .card-wrapper .card-box .mbr-section-btn a {
+  margin-left: 4px;
+}
+@media (max-width: 767px) {
+  .cid-sXa5919geX .container-fluid {
+    padding: 0 1rem;
+  }
+}
+.cid-sXa5919geX .mbr-section-title,
+.cid-sXa5919geX .underline {
+  color: #061556;
+}
+.cid-sXa5919geX .card-img > .img-name {
+  color: #030859;
+}
+.cid-sXa5919geX .mbr-section-subtitle {
+  color: #061556;
 }
 .cid-s60IeCigv6 {
   padding-top: 0px;
